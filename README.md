@@ -4,7 +4,7 @@
 
 ## Скачать
 
-**Версия 0.2.1** (2026-11-01) — [Light_torrent_0.2.1_x64-setup.exe](https://github.com/AccidentalHarakiri/Light-torrent_releases/releases/download/v0.2.1/Light_torrent_0.2.1_x64-setup.exe), 4.0 МБ
+**Версия 0.2.2** (2026-11-05) — [Light_torrent_0.2.2_x64-setup.exe](https://github.com/AccidentalHarakiri/Light-torrent_releases/releases/download/v0.2.2/Light_torrent_0.2.2_x64-setup.exe), 4.0 МБ
 
 Windows 10 и 11, 64 бит. Устанавливается для всех пользователей компьютера (попросит права
 администратора). Дальше программа обновляется сама: покажет окошко «Вышла версия…», обновление
