@@ -40,5 +40,5 @@ The app is free; the source code is closed. Licenses of the open-source librarie
 the app: Settings → "Licenses".
 
 
-## Предложения
+## Suggestions
 Have suggestions? Let’s discuss) The client is still in development.
