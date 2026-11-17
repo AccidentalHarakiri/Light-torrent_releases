@@ -1,39 +1,44 @@
 # Light_torrent
 
-Лёгкий торрент-клиент для Windows. **Без рекламы.** в программе отсутствует телеметрия, а также статистика, отправка ошибок разработчику и тд.
+A lightweight torrent client for Windows. No ads, no telemetry😊
 
-## Скачать
+## Download
 
-**Версия 0.2.2** (2026-11-05) — [Light_torrent_0.2.2_x64-setup.exe](https://github.com/AccidentalHarakiri/Light-torrent_releases/releases/download/v0.2.2/Light_torrent_0.2.2_x64-setup.exe), 4.0 МБ
+**Version 0.2.4** (2026-11-11) — [Light_torrent_0.2.4_x64-setup.exe](https://github.com/AccidentalHarakiri/Light-torrent_releases/releases/download/v0.2.4/Light_torrent_0.2.4_x64-setup.exe), 4.4 MB
 
-Windows 10 и 11, 64 бит. Устанавливается для всех пользователей компьютера (попросит права
-администратора). Дальше программа обновляется сама: покажет окошко «Вышла версия…», обновление
-ставится только с подписью разработчика.
+Windows 10 and 11, 64-bit. Installs for all users of the computer (asks for administrator
+rights). After that the app updates itself: it shows a "New version available" window, and only
+updates signed by the developer are installed.
 
+### What's new in 0.2.4
+- Seeding engine fixes
+- Performance improvements
+- General improvements
 
-Все версии — на странице [Releases](https://github.com/AccidentalHarakiri/Light-torrent_releases/releases).
+All versions are on the [Releases](https://github.com/AccidentalHarakiri/Light-torrent_releases/releases) page.
 
-## «Windows защитил ваш компьютер»
+## "Windows protected your PC"
 
-Установщик не подписан платным сертификатом, поэтому при первом запуске Windows может показать
-это окно. Нажмите **«Подробнее» → «Выполнить в любом случае»**.
+The installer is not signed with a paid certificate, so Windows may show this window on first
+launch. Click **"More info" → "Run anyway"**.
 
-Убедиться, что файл не подменён, — сравнить его SHA-256 с указанным ниже. В PowerShell:
+To make sure the file has not been tampered with, compare its SHA-256 with the one below. In PowerShell:
 
 ```
-Get-FileHash .\Light_torrent_0.2.0_x64-setup.exe -Algorithm SHA256
+Get-FileHash .\Light_torrent_0.2.4_x64-setup.exe -Algorithm SHA256
 ```
 
-SHA-256: `d7e71b21f43340c2dd67fd3189a2ac03056f0cffa2114c7f544567f14d3a71e5`
+SHA-256: `ac97b726356342a68698c825ed70dba452c1ee253ff3dd822fcfc681c3f8199f`
 
-## Безопасность
+## Security
 
-Нашли уязвимость — пожалуйста, сообщите
+Found a vulnerability? Please report it privately as described in [SECURITY.md](SECURITY.md).
 
-## Лицензия
+## License
 
-Программа бесплатная, исходный код закрыт. Лицензии используемых открытых библиотек — в программе:
-Настройки → «Лицензии».
+The app is free; the source code is closed. Licenses of the open-source libraries it uses are in
+the app: Settings → "Licenses".
+
 
 ## Предложения
-Если есть предложения - это обсуждаемо) клиент все еще находится в разработке
+Have suggestions? Let’s discuss) The client is still in development.
