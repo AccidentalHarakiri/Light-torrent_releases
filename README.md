@@ -39,6 +39,8 @@ Found a vulnerability? Please report it privately as described in [SECURITY.md](
 The app is free; the source code is closed. Licenses of the open-source libraries it uses are in
 the app: Settings → "Licenses".
 
+## Virus total check
+https://www.virustotal.com/gui/file/ac97b726356342a68698c825ed70dba452c1ee253ff3dd822fcfc681c3f8199f?nocache=1
 
 ## Suggestions
 Have suggestions? Let’s discuss) The client is still in development.
